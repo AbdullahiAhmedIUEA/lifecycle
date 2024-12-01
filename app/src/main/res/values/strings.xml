@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LifecycleDemo</string>
+    <string name="activity_created">Activity Created</string>
+    <string name="activity_started">Activity Started</string>
+    <string name="activity_resumed">Activity Resumed</string>
+    <string name="activity_paused">Activity Paused</string>
+    <string name="activity_stopped">Activity Stopped</string>
+    <string name="activity_restarted">Activity Restarted</string>
+    <string name="activity_destroyed">Activity Destroyed</string>
+    <string name="button_go_to_second_activity">Go to Second Activity</string>
+</resources>
